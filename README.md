@@ -1,8 +1,9 @@
 # TP1 - Introducción a la Sintaxis de Python
 
-**Materia:** Taller de Lenguaje de Programación III 
+**Materia:** Taller de Lenguaje de Programación III
+
 **Estudiante:** Ailín Ayelén Miño
-**Repositorio:** `tp1_tlp3_ailin_apellido`  
+ 
 **Instituto Politécnico Formosa:** Tecnicatura en Desarrollo de Software Multiplataforma
  
 **Año 2025** 
